@@ -1,0 +1,16 @@
+﻿  LogWriter.cpp
+c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(13): warning C4129: 'A': unrecognized character escape sequence
+c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(13): warning C4129: 'D': unrecognized character escape sequence
+c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(13): warning C4129: 'l': unrecognized character escape sequence
+c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(20): warning C4473: 'fprintf' : not enough arguments passed for format string
+  c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(20): note: placeholders and their parameters expect 6 variadic arguments, but 4 were provided
+  c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(20): note: the missing variadic argument 5 is required by format string '%lf'
+c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(21): warning C4473: 'fprintf' : not enough arguments passed for format string
+  c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(21): note: placeholders and their parameters expect 8 variadic arguments, but 6 were provided
+  c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(21): note: the missing variadic argument 7 is required by format string '%lf'
+c:\users\asus\documents\visual studio 2015\projects\testprojlaba\testprojlaba\logwriter.cpp(36): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  TestProjLaba.vcxproj -> C:\Users\Asus\documents\visual studio 2015\Projects\TestProjLaba\Debug\TestProjLaba.exe
+  TestProjLaba.vcxproj -> C:\Users\Asus\documents\visual studio 2015\Projects\TestProjLaba\Debug\TestProjLaba.pdb (Full PDB)

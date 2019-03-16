@@ -1,0 +1,66 @@
+
+
+[2019-3-13 12:53:36]
+
+ Line created: {1.000000; 5.000000}; First point {6.000000; 5.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {2.000000; 1.000000}; First point {2.000000; 4.000000}; Second point {5.000000; 1.000000}; Third point {0.000000;0.000000}
+
+ Common points not found
+[2019-3-13 12:54:5]
+
+ Line created: {1.000000; 3.000000}; First point {5.000000; 3.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {2.000000; 1.000000}; First point {2.000000; 4.000000}; Second point {5.000000; 1.000000}; Third point {0.000000;0.000000}
+
+ Crosspoint {3.000000;3.000000}
+[2019-3-13 12:55:23]
+
+ Line created: {1.000000; 3.000000}; First point {5.000000; 3.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {2.000000; 1.000000}; First point {2.000000; 4.000000}; Second point {5.000000; 1.000000}; Third point {0.000000;0.000000}
+
+ Crosspoint {3.000000;3.000000}
+[2019-3-13 12:58:24]
+
+ Line created: {1.000000; 3.000000}; First point {5.000000; 3.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {2.000000; 1.000000}; First point {2.000000; 4.000000}; Second point {5.000000; 1.000000}; Third point {0.000000;0.000000}
+
+ Crosspoint {3.000000;3.000000}
+
+ Crosspoint {2.000000;3.000000}
+[2019-3-13 16:40:59]
+
+ Line created: {1.000000; 4.000000}; First point {5.000000; 4.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {2.000000; 1.000000}; First point {2.000000; 4.000000}; Second point {5.000000; 1.000000}; Third point {0.000000;0.000000}
+
+ Crosspoint {2.000000;4.000000}
+
+ Crosspoint {2.000000;4.000000}
+[2019-3-13 16:42:36]
+
+ Line created: {1.000000; 5.000000}; First point {6.000000; 5.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {2.000000; 1.000000}; First point {2.000000; 4.000000}; Second point {5.000000; 1.000000}; Third point {0.000000;0.000000}
+
+ Common points not found
+[2019-3-13 16:44:27]
+
+ Line created: {1.000000; 3.000000}; First point {5.000000; 3.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {2.000000; 1.000000}; First point {2.000000; 4.000000}; Second point {5.000000; 1.000000}; Third point {0.000000;0.000000}
+
+ Crosspoint {2.000000;3.000000}
+
+ Crosspoint {3.000000;3.000000}
+[2019-3-13 16:45:48]
+
+ Line created: {1.000000; 3.000000}; First point {5.000000; 3.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {2.000000; 1.000000}; First point {2.000000; 4.000000}; Second point {5.000000; 1.000000}; Third point {0.000000;0.000000}
+
+ Crosspoint {2.000000;3.000000}
+
+ Crosspoint {3.000000;3.000000}

@@ -1,0 +1,9 @@
+now: 2019-3-2 16:5:39
+Hello
+ Line created: {1.000000; 2.000000}; First point {5.000000; 2.000000}; Second point {0.000000; 0.000000}
+
+ Tringle created: {1.000000; 1.000000}; First point {3.000000; 3.000000}; Second point {4.000000; 1.000000}; Third point {0.000000;0.000000}
+
+Crosspoint {2.000000;2.000000}
+
+Crosspoint {3.500000;2.000000}
